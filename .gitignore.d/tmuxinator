@@ -1,0 +1,5 @@
+*
+!/.gitignore.d
+!/.gitignore.d/tmuxinator
+!/.tmuxinator
+!/.tmuxinator/default.yml
